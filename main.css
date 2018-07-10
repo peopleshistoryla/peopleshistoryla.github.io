@@ -10,11 +10,11 @@
     top:-100px;
     z-index: -100;
 }
- a{
+a.nav-link{
     color:white;
 }
 
- a:visited{
+a.nav-link:visited{
     color:white;
 }
 
